@@ -54,14 +54,17 @@ Interactive re-clustering and refinement
 
 PICASSA includes supplementary tools to extend functionality:
 
-Gene Conversion Module to help with some input formats in Phase 2
-Human ↔ Mouse gene mapping
-Ensembl ID conversion
-Ortholog detection
-Pathway Plotter Module
-Visualize enrichment results produced in PICASSA Phase 2
-Generate publication-ready plots
-Reuse saved analysis outputs without recomputation
+### 🔹 Gene Conversion Module
+Supports input standardization and cross-species analysis in Phase 2:
+- Human ↔ Mouse gene mapping  
+- Ensembl ID conversion  
+- Ortholog detection  
+
+### 🔹 Pathway Plotter Module
+Facilitates visualization of enrichment results generated in PICASSA Phase 2:
+- Visualize enrichment analysis outputs  
+- Generate publication-ready plots  
+- Reuse saved analysis results without recomputation  
 
 
 ## 📚 Documentation

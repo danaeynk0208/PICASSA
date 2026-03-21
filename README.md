@@ -113,10 +113,10 @@ Danai Giannakou
 ## 🙏 Acknowledgments
 
 PICASSA builds upon the functionality of several outstanding tools and resources such as:
-Seurat
-Monocle3
-LIANA
-clusterProfiler
-ggplot2 ecosystem
+- Seurat
+- Monocle3
+- LIANA
+- clusterProfiler
+- ggplot2 ecosystem
 
 Special thanks to collaborators, contributors, and the scientific community supporting open-source bioinformatics tools.

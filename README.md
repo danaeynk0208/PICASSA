@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#">Link</a> • 
-  <a href="#">Report Bug</a> • 
+  <a href="[#](https://github.com/danaeynk0208/PICASSA/issues)">Report Bug</a> • 
   <a href="#">Request Feature</a>
 </p>
 

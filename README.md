@@ -1,7 +1,20 @@
 # PICASSA
+<p align="center">
+  <img src="Images/Picassa-logo.png" width="500">
+</p>
+
+<p align="center">
+  <b>Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis</b>
+</p>
+
+<p align="center">
+  <a href="#">Link</a> • 
+  <a href="#">Report Bug</a> • 
+  <a href="#">Request Feature</a>
+</p>
+
 Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis
-🧬 PICASSA
-Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis
+
 
 Link: [ADD LINK HERE]
 Report Bug · Request Feature

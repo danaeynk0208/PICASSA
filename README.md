@@ -6,7 +6,7 @@
   <b>Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis</b>
 </p>
 
-<p align="center">
+<p align="center"> •
   <a href="#">Link</a> • 
   <a href="https://github.com/danaeynk0208/PICASSA/issues">Report Bug</a> • 
   <a href="https://github.com/danaeynk0208/PICASSA/issues">Request Feature</a>

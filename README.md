@@ -12,9 +12,6 @@
   <a href="https://github.com/danaeynk0208/PICASSA/issues">Request Feature</a>
 </p>
 
-Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis
-
-
 Link: [ADD LINK HERE]
 Report Bug · Request Feature
 

@@ -1,4 +1,3 @@
-# PICASSA
 <p align="center">
   <img src="Images/Picassa-logo.png" width="500">
 </p>

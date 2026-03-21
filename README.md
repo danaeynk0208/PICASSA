@@ -12,8 +12,6 @@
   <a href="https://github.com/danaeynk0208/PICASSA/issues">Request Feature</a>
 </p>
 
-Link: [ADD LINK HERE]
-Report Bug · Request Feature
 
 ## 📖 About PICASSA
 

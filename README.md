@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#">Link</a> • 
-  <a href="[#](https://github.com/danaeynk0208/PICASSA/issues)">Report Bug</a> • 
-  <a href="#">Request Feature</a>
+  <a href="https://github.com/danaeynk0208/PICASSA/issues">Report Bug</a> • 
+  <a href="https://github.com/danaeynk0208/PICASSA/issues">Request Feature</a>
 </p>
 
 Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis

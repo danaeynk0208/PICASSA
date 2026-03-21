@@ -106,9 +106,8 @@ If you use PICASSA in your research, please cite:
 
 ## 📬 Contact
 
-Danae Yiannakou
+Danai Giannakou
 📧 [ADD EMAIL]
-🔗 [OPTIONAL: LinkedIn / GitHub]
 
 
 ## 🙏 Acknowledgments

@@ -18,13 +18,13 @@ Platform for Interactive, Comprehensive, and Accessible scRNA-seq Analysis
 Link: [ADD LINK HERE]
 Report Bug · Request Feature
 
-📖 About The Project
+## 📖 About PICASSA
 
 PICASSA is a web-based platform designed for interactive, comprehensive, and accessible single-cell RNA-seq analysis. Built in R using the Seurat framework and deployed through a Shiny interface, PICASSA integrates best-practice methodologies into a structured yet flexible analytical environment.
 
 The platform is designed to reduce technical barriers while maintaining analytical rigor, enabling both computational and non-computational users to perform advanced single-cell analyses.
 
-⚙️ Platform Structure
+### ⚙️ Platform Structure
 
 PICASSA is organized into two main analytical phases:
 
@@ -49,74 +49,73 @@ Differential expression analysis
 Cluster annotation and projection
 Trajectory inference (Monocle3)
 Cell–cell communication analysis (LIANA)
-Gene expression visualization
+Gene and genesets expression visualization
 Functional enrichment analysis
 Interactive re-clustering and refinement
 
 👉 Outcome: Iterative, hypothesis-driven exploration within a unified interface
 
-🧩 Additional Modules
+## 🧩 Additional Modules
 
 PICASSA includes supplementary tools to extend functionality:
 
-Gene Conversion Module
+Gene Conversion Module to help with some input formats in Phase 2
 Human ↔ Mouse gene mapping
 Ensembl ID conversion
 Ortholog detection
 Pathway Plotter Module
-Visualize enrichment results
+Visualize enrichment results produced in PICASSA Phase 2
 Generate publication-ready plots
 Reuse saved analysis outputs without recomputation
-📚 Documentation
+
+
+## 📚 Documentation
 
 For full details, tutorials, and advanced usage:
 
 👉 [Documentation Link — ADD HERE]
 
-🛠 Built With
-R
-Shiny
-Seurat
-Monocle3
-LIANA
-clusterProfiler
-ggplot2 / visualization ecosystem
-🌐 Accessibility
+
+## 🛠 Built With
+R and RShiny
+
+
+## 🌐 Accessibility
 
 PICASSA is available via:
 
 👉 [Live Application Link — ADD HERE]
 
-(Optional: Docker / local deployment instructions can be added here later)
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions are welcome and greatly appreciated!
+We welcome feedback and suggestions to improve PICASSA.
 
 If you would like to contribute:
 
-Fork the repository
-Create a new branch (feature/YourFeature)
-Commit your changes
-Open a Pull Request
+- Click **"Request Feature"** above to suggest new functionality  
+- Click **"Report Bug"** to report any issues  
 
-For bugs or feature requests, please use the issue tracker.
+Alternatively, you can open an issue directly in the repository.
 
-📑 Citation
+
+## 📑 Citation
 
 If you use PICASSA in your research, please cite:
 
 [ADD YOUR PAPER / THESIS / PREPRINT HERE]
-📬 Contact
+
+
+## 📬 Contact
 
 Danae Yiannakou
 📧 [ADD EMAIL]
 🔗 [OPTIONAL: LinkedIn / GitHub]
 
-🙏 Acknowledgments
 
-PICASSA builds upon the functionality of several outstanding tools and resources:
+## 🙏 Acknowledgments
 
+PICASSA builds upon the functionality of several outstanding tools and resources such as:
 Seurat
 Monocle3
 LIANA

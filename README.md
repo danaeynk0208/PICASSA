@@ -70,7 +70,7 @@ Facilitates visualization of enrichment results generated in Phase 2:
 ## 📚 Documentation
 
 • 📘 Online Manual: [Live Link — ADD HERE]
-• 📄 Download PDF: https://danaeynk0208.github.io/PICASSA/manual/docs/PICASSA_Manual.pdf
+• 📄 Download PDF: https://github.com/danaeynk0208/PICASSA/tree/main/manual_pdf/PICASSA-User Manual_TEST.pdf
 
 
 ## 🛠 Built With

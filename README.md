@@ -109,8 +109,8 @@ If you use PICASSA in your research, please cite:
 
 ## 📬 Contact
 
-Danai Giannakou
-📧 [ADD EMAIL]
+PICASSA support team
+📧 picassa.support@gmail.com
 
 
 ## 🙏 Acknowledgments

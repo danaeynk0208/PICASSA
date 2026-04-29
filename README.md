@@ -40,13 +40,13 @@ Automated report generation
 
 A flexible and modular environment for in-depth biological exploration, including:
 
-Differential expression analysis
-Cluster annotation and projection
-Trajectory inference (Monocle3)
-Cell–cell communication analysis (LIANA)
-Gene and genesets expression visualization
-Functional enrichment analysis
-Interactive re-clustering and refinement
+Differential expression analysis  
+Cluster annotation and projection  
+Trajectory inference (Monocle3)  
+Cell–cell communication analysis (LIANA)  
+Gene and genesets expression visualization  
+Functional enrichment analysis  
+Interactive re-clustering and refinement  
 
 👉 Outcome: Iterative, hypothesis-driven exploration within a unified interface
 

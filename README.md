@@ -27,12 +27,12 @@ PICASSA is organized into two main analytical phases:
 
 A guided, sequential workflow to generate a high-quality, reproducible dataset structure, including:
 
-Data input and preprocessing
-Quality control and filtering (cells & genes)
-Normalization and regression
-Dimensionality reduction (PCA, UMAP)
-Clustering and parameter optimization
-Automated report generation
+- Data input and preprocessing  
+- Quality control and filtering (cells & genes)  
+- Normalization and regression  
+- Dimensionality reduction (PCA, UMAP)  
+- Clustering and parameter optimization  
+- Automated report generation  
 
 👉 Outcome: A robust clustering framework ready for downstream analysis
 
@@ -40,13 +40,13 @@ Automated report generation
 
 A flexible and modular environment for in-depth biological exploration, including:
 
-Differential expression analysis  
-Cluster annotation and projection  
-Trajectory inference (Monocle3)  
-Cell–cell communication analysis (LIANA)  
-Gene and genesets expression visualization  
-Functional enrichment analysis  
-Interactive re-clustering and refinement  
+- Differential expression analysis  
+- Cluster annotation and projection  
+- Trajectory inference (Monocle3)  
+- Cell–cell communication analysis (LIANA)  
+- Gene and genesets expression visualization  
+- Functional enrichment analysis  
+- Interactive re-clustering and refinement  
 
 👉 Outcome: Iterative, hypothesis-driven exploration within a unified interface
 

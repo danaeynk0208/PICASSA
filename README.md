@@ -69,7 +69,7 @@ Facilitates visualization of enrichment results generated in Phase 2:
 
 ## 📚 Documentation
 
-For full details, tutorials, and advanced usage:
+For full details and advanced usage:
 
 - 📘 Online Manual (short & interactive):  
 [Live Link — ADD HERE]
